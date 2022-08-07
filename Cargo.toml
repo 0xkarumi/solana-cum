@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "cum",
+    "examples/hello",
+    "examples/hello-solana",
+]

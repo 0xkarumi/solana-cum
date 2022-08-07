@@ -1,0 +1,12 @@
+[package]
+name = "solana-cum-examples-hello"
+version = "0.1.0"
+edition = "2021"
+authors = ["karumii <karumi@cum.airforce>"]
+
+[lib]
+name = "hello"
+crate-type = ["cdylib"]
+
+[dependencies]
+solana-cum = { version = "0.1.0", path = "../../cum" }
