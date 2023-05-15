@@ -1,8 +1,0 @@
-[package]
-name = "solana-cum"
-version = "0.1.0"
-edition = "2021"
-authors = ["karumii <karumi@cum.airforce>"]
-description = "solana cum optimizor libraries"
-
-[dependencies]
